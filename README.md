@@ -2,10 +2,10 @@
 
 #Front Developer , UI/UX Designer 
 
-<ul dir="auto">
-<li>Machine Learing Engineer, Engineering Manager</li>
-<li>I organize a group of developers who write blog posts - 글쓰는 개발자 모임, <a href="https://bit.ly/geultto" rel="nofollow">글또</a></li>
-<li><a href="https://inf.run/MXw2" rel="nofollow">PM을 위한 데이터 리터러시</a> 강의를 인프런에 냈습니다!</li>
+<ul>
+<li>UI/UX Designer</li>
+<li>web publisher</li>
+<li>Front Developer</li>
 </ul>
 
 - 🔭 I’m currently working on ...
