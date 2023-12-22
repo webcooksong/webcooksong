@@ -1,7 +1,12 @@
+<img src="https://camo.githubusercontent.com/1b0ab619bdc28065507e97cac0d8c626c04ec01dbcf9311fad1537ef4ea7ae8b/68747470733a2f2f686974732e736565796f756661726d2e636f6d2f6170692f636f756e742f696e63722f62616467652e7376673f75726c3d68747470732533412532462532466769746875622e636f6d2532467a7a737a61" alt="Hits" data-canonical-src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza" style="max-width: 100%;">
 
-**webcooksong/webcooksong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Front Developer , UI/UX Designer 
 
-Here are some ideas to get you started:
+<ul dir="auto">
+<li>Machine Learing Engineer, Engineering Manager</li>
+<li>I organize a group of developers who write blog posts - 글쓰는 개발자 모임, <a href="https://bit.ly/geultto" rel="nofollow">글또</a></li>
+<li><a href="https://inf.run/MXw2" rel="nofollow">PM을 위한 데이터 리터러시</a> 강의를 인프런에 냈습니다!</li>
+</ul>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
